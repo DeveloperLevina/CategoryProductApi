@@ -1,3 +1,5 @@
+the Category-Based Product API designed to provide seamless access to product data categorized by various types of categories. The API is intended for e-commerce platforms or applications that require organized product listings, filtered by categories such as electronics, clothing, home goods, and more.
+
 1) Project Name: Category Product API
    Description: This project is a
    f  Java-based API designed to manage categories and products in an application. It provides functionality to add, retrieve, update, and delete categories and their associated products. 
