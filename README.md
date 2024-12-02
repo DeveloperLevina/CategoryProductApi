@@ -34,3 +34,12 @@ Product Endpoints:
    mvn spring-boot:run.
 
 Image Database 
+![WhatsApp Image 2024-12-02 at 22 42 18_2ecf590b](https://github.com/user-attachments/assets/6a6e542f-eb1f-430f-ae03-2a164b807656)
+![WhatsApp Image 2024-12-02 at 22 42 18_09448fcf](https://github.com/user-attachments/assets/1cc9cbdb-8043-4c9d-ae2c-6c44f515e65e)
+![WhatsApp Image 2024-12-02 at 22 42 18_19fa0f2b](https://github.com/user-attachments/assets/6dc6084e-b804-4fbd-b458-4bb89962a7e8)
+![WhatsApp Image 2024-12-02 at 22 42 18_723ad84f](https://github.com/user-attachments/assets/1125762a-9dde-4d64-8dcc-9978eb01dd34)
+![WhatsApp Image 2024-12-02 at 22 42 18_1ca5a78c](https://github.com/user-attachments/assets/74916948-9e21-44e7-a00d-46e315e074d7)
+
+
+
+
