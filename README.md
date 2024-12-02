@@ -40,6 +40,10 @@ Image Database
 ![WhatsApp Image 2024-12-02 at 22 42 18_723ad84f](https://github.com/user-attachments/assets/1125762a-9dde-4d64-8dcc-9978eb01dd34)
 ![WhatsApp Image 2024-12-02 at 22 42 18_1ca5a78c](https://github.com/user-attachments/assets/74916948-9e21-44e7-a00d-46e315e074d7)
 
+SpringBoot & JPA information 
+![WhatsApp Image 2024-12-02 at 22 44 30_cb1de9d3](https://github.com/user-attachments/assets/1c538e3d-2b03-44e6-97c1-ea5b2e7f5af5)
+
+
 
 
 
